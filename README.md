@@ -1,2 +1,2 @@
-# project2
-this is a project
+# this is a website
+welcome to this website
